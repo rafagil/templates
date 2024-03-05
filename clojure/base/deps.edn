@@ -1,0 +1,5 @@
+{
+ ;;:deps
+ ;; {full.name/lib {:mvn/version "1.0.0"}
+ ;;  full.name/lib {:mvn/version "1.0.0"}}
+ }
